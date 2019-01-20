@@ -1,0 +1,9 @@
+{
+  "name": "hello-webpack",
+  "version": "0.0.1",
+  "description": "An easy to use webpack configuration with muliple html files.",
+  "main": "index.js",
+  "repository": "https://github.com/kevinletchford/hello-webpack.git",
+  "author": "Kevin Letchford <kextype@gmail.com>",
+  "license": "MIT"
+}
